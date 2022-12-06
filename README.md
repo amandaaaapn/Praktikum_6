@@ -253,4 +253,4 @@ Buat program sederhana dengan mengaplikasikan penggunaan fungsi yang akan menamp
 
 ![flowchart](https://user-images.githubusercontent.com/115678845/205917524-765f76c9-e2e8-4b0d-a4ed-31a221572096.jpeg)
 
-# Sekian, Terima kasih
+# Sekian, Terima kasi
