@@ -6,8 +6,6 @@ NIM : 312210129
 
 Kelas : TI.22.A1
 
-### DAFTAR ISI
-
 ## DAFTAR ISI <br>
 | No | Description | Link |
 |-----|------|-----|
@@ -235,7 +233,7 @@ Buat program sederhana dengan mengaplikasikan penggunaan fungsi yang akan menamp
 
 - Selesai
 
-![Screenshot (128)](https://user-images.githubusercontent.com/115678845/205916834-f991edc0-8e58-4f96-8817-08cbfb6391a0.png)
+![Screenshot (126)5](https://user-images.githubusercontent.com/115678845/205918640-12a84690-a757-461d-b11d-660cad3514a7.png)
 
 ### Penjelasan Program :
 1. Definisikan dictionary terlebih dahulu data = {}.
